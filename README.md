@@ -1,9 +1,10 @@
 # 2048 Game with SDL
+Group project for DSA class.
  
 A 2048 game implementation using SDL2 in C. This project involves creating a simple version of the classic 2048 game, where players slide tiles on a grid to combine them into a tile of 2048.
 
 ## Features
-- **User vs User**: Classic gameplay for two players.
+- **User**: Classic gameplay for the player.
 - **User vs Machine**: Play against an AI opponent.
 - **User Interface**: Simple, clean interface with animated tiles.
 - **Ranking System**: Keeps track of the best scores.
