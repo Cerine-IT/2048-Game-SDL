@@ -50,6 +50,6 @@ sudo apt-get install libsdl2-dev libsdl2-ttf-dev
 ```
 
 ## How to Play
-  Arrow keys: Move tiles on the grid.
-  Press 'R': Restart the game.
-  Press 'Esc': Exit the game.
+- Arrow keys: Move tiles on the grid.
+- Press 'R': Restart the game.
+- Press 'Esc': Exit the game.
